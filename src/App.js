@@ -1,6 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
+import Container from './components/container/index';
+import Footer from './components/footer/index';
+import Header from './components/header/index';
+import Navbar from './components/navbar/index';
 import './App.css';
+
 
 function App() {
   return (
