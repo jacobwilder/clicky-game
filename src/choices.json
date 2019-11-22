@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Michael Scott",
+      "image": "./images/prison_mike.png"
+    },
+    {
+      "id": 2,
+      "name": "Dwight Shrute",
+      "image": "./images/dwight.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Andy Bernard",
+      "image": "./images/andy.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jim Halpert",
+      "image": "./images/jim.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Pam Beesley",
+      "image": "./images/pam.png"
+    },
+    {
+      "id": 6,
+      "name": "Toby Flenderson",
+      "image": "./images/toby.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Oscar Martinez",
+      "image": "./images/oscar.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Stanley Hudson",
+      "image": "./images/stanley.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Meredith Palmer",
+      "image": "./images/meredith.png"
+    },
+    {
+      "id": 10,
+      "name": "Kevin Malone",
+      "image": "./images/kevin.jpg"
+    }
+  ]
+  
